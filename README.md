@@ -21,7 +21,7 @@
 
 <b>Eliana is a Most Powerful FastApi for free.
 
-* Website Link:  <a href="https://t.me/https://elianaapi.herokuapp.com/" alt="Eliana Api"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-ElianaApi-Green" /> </a>
+* Website Link:  <a href="https://elianaapi.herokuapp.com/" alt="Eliana Api"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-ElianaApi-Green" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Red-Aura/Eliana-Api?color=white&label=%F0%9F%8C%9F%20star">
 
